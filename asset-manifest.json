@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TestTask-instaSport/static/css/main.0620377e.chunk.css",
+    "main.js": "/TestTask-instaSport/static/js/main.24f3c39f.chunk.js",
+    "main.js.map": "/TestTask-instaSport/static/js/main.24f3c39f.chunk.js.map",
+    "runtime-main.js": "/TestTask-instaSport/static/js/runtime-main.d2ea0994.js",
+    "runtime-main.js.map": "/TestTask-instaSport/static/js/runtime-main.d2ea0994.js.map",
+    "static/js/2.3cea0474.chunk.js": "/TestTask-instaSport/static/js/2.3cea0474.chunk.js",
+    "static/js/2.3cea0474.chunk.js.map": "/TestTask-instaSport/static/js/2.3cea0474.chunk.js.map",
+    "index.html": "/TestTask-instaSport/index.html",
+    "precache-manifest.ea28df72d3d62828c48954e1f94de0be.js": "/TestTask-instaSport/precache-manifest.ea28df72d3d62828c48954e1f94de0be.js",
+    "service-worker.js": "/TestTask-instaSport/service-worker.js",
+    "static/css/main.0620377e.chunk.css.map": "/TestTask-instaSport/static/css/main.0620377e.chunk.css.map",
+    "static/js/2.3cea0474.chunk.js.LICENSE.txt": "/TestTask-instaSport/static/js/2.3cea0474.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2ea0994.js",
+    "static/js/2.3cea0474.chunk.js",
+    "static/css/main.0620377e.chunk.css",
+    "static/js/main.24f3c39f.chunk.js"
+  ]
+}
